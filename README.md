@@ -1,6 +1,3 @@
-# HHI-Scanner
-
-
 ## HHI Scanner
 
 Host Header Injection Scanner
@@ -8,7 +5,7 @@ Host Header Injection Scanner
 
 ## Introduction
 
-XForwardy is a Host Header Injection scanning tool which can detect misconfigurations , where Host Header Injections are potentially possible. It also checks for CORS Misconfig in a URL.
+HHI-Scanner is a Host Header Injection scanning tool which can detect misconfigurations , where Host Header Injections are potentially possible. It also checks for CORS Misconfig in a URL.
 
 
 ### Requirements
@@ -20,7 +17,7 @@ XForwardy is a Host Header Injection scanning tool which can detect misconfigura
 
 ```
 
-git clone https://github.com/deepmarketer666/.git
+git clone https://github.com/deepmarketer666/HHI-Scanner.git
 
 pip install -r requirements.txt
 
