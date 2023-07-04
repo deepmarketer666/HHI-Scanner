@@ -5,8 +5,7 @@ Host Header Injection Scanner
 
 ## Introduction
 
-HHI-Scanner is a Host Header Injection scanning tool which can detect misconfigurations , where Host Header Injections are potentially possible. It also checks for CORS Misconfig in a URL.
-
+A Host Header Injection scanning tool, HHI-Scanner, may find configuration errors where Host Header Injections may occur. In a URL, it also looks for CORS Misconfig.
 
 ### Requirements
 
